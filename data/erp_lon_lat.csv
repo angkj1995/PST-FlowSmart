@@ -1,0 +1,79 @@
+zone_id,erp_gantry_no,erp_gantry_location,onemap_url,latitude,longitude
+BMC,1,Victoria Street,https://www.onemap.gov.sg/?lat=1.3004165&lng=103.8556591,1.3004165,103.8556591
+BMC,2,Nicoll Highway,https://www.onemap.gov.sg/?lat=1.2997274&lng=103.8620479,1.2997274,103.8620479
+CBD,3,Eu Tong Sen Street,https://www.onemap.gov.sg/?lat=1.2806823&lng=103.8403123,1.2806823,103.8403123
+OC1,4,Orchard Link,https://www.onemap.gov.sg/?lat=1.3006477&lng=103.8349725,1.3006477,103.8349725
+CBD,5,Lim Teck Kim Road,https://www.onemap.gov.sg/?lat=1.2734734&lng=103.8417683,1.2734734,103.8417683
+CBD,6,Anson Road,https://www.onemap.gov.sg/?lat=1.2733002&lng=103.8444248,1.2733002,103.8444248
+CBD,7,Tanjong Pagar Road,https://www.onemap.gov.sg/?lat=1.2730903&lng=103.8431137,1.2730903,103.8431137
+BMC,9,Bencoolen Street,https://www.onemap.gov.sg/?lat=1.3026257&lng=103.8534155,1.3026257,103.8534155
+BMC,10,Queen Street,https://www.onemap.gov.sg/?lat=1.301244&lng=103.8549076,1.301244,103.8549076
+BMC,11,North Bridge Road,https://www.onemap.gov.sg/?lat=1.2995755&lng=103.8564418,1.2995755,103.8564418
+OC1,12,Oxley Road,https://www.onemap.gov.sg/?lat=1.299209&lng=103.8413326,1.299209,103.8413326
+OC1,13,Orchard Road,https://www.onemap.gov.sg/?lat=1.3048373&lng=103.8322217,1.3048373,103.8322217
+OC1,14,Orchard Turn,https://www.onemap.gov.sg/?lat=1.3035841&lng=103.832667,1.3035841,103.832667
+OC1,15,Killiney Road,https://www.onemap.gov.sg/?lat=1.2995654&lng=103.8398085,1.2995654,103.8398085
+BMC,16,Beach Road,https://www.onemap.gov.sg/?lat=1.2979165&lng=103.8576525,1.2979165,103.8576525
+BMC,17,Temasek Boulevard,https://www.onemap.gov.sg/?lat=1.2960022&lng=103.8596902,1.2960022,103.8596902
+BMC,18,Republic Boulevard,https://www.onemap.gov.sg/?lat=1.2951393&lng=103.8625658,1.2951393,103.8625658
+CBD,19,Havelock Road/Clemenceau Ave,https://www.onemap.gov.sg/?lat=1.2884187&lng=103.8416395,1.2884187,103.8416395
+CBD,20,Havelock Road/CTE Exit,https://www.onemap.gov.sg/?lat=1.2877954&lng=103.842721,1.2877954,103.842721
+OC1,21,Buyong Road,https://www.onemap.gov.sg/?lat=1.3005898&lng=103.8431784,1.3005898,103.8431784
+OC1,22,Kramat Road,https://www.onemap.gov.sg/?lat=1.3016137&lng=103.8419789,1.3016137,103.8419789
+BMC,23,River Valley Road,https://www.onemap.gov.sg/?lat=1.2929728&lng=103.8438291,1.2929728,103.8438291
+CBD,24,Merchant Road/Clemenceau Ave,https://www.onemap.gov.sg/?lat=1.2900987&lng=103.8423247,1.2900987,103.8423247
+CBD,25,Merchant Road/CTE Exit,https://www.onemap.gov.sg/?lat=1.2886533&lng=103.8444805,1.2886533,103.8444805
+OC1,26,Clemenceau Ave,https://www.onemap.gov.sg/?lat=1.29776&lng=103.8437282,1.29776,103.8437282
+OC1,27,Cairnhill Road,https://www.onemap.gov.sg/?lat=1.3056492&lng=103.8374994,1.3056492,103.8374994
+CBD,28,Central Boulevard,https://www.onemap.gov.sg/?lat=1.2743648&lng=103.8606687,1.2743648,103.8606687
+CBD,29,Slip Road from Westbound MCE towards Maxwell Road,https://www.onemap.gov.sg/?lat=1.2749454&lng=103.8497443,1.2749454,103.8497443
+EC1,30,ECP to City,https://www.onemap.gov.sg/?lat=1.2954217&lng=103.877459,1.2954217,103.877459
+CT1,31,CTE after Braddell Road,https://www.onemap.gov.sg/?lat=1.3334158&lng=103.8623431,1.3334158,103.8623431
+PE1,32,PIE after Kallang Bahru on Woodsville Flyover,https://www.onemap.gov.sg/?lat=1.3262995&lng=103.8705304,1.3262995,103.8705304
+CT1,33,CTE from Serangoon Road,https://www.onemap.gov.sg/?lat=1.3291147&lng=103.8645045,1.3291147,103.8645045
+CT1,34,CTE from Balestier Road,https://www.onemap.gov.sg/?lat=1.3183463&lng=103.8516477,1.3183463,103.8516477
+CT4,35,CTE before Braddell Road,https://www.onemap.gov.sg/?lat=1.3466805&lng=103.8593904,1.3466805,103.8593904
+AY1,36,AYE to City before Alexandra Road,https://www.onemap.gov.sg/?lat=1.2867917&lng=103.796721,1.2867917,103.796721
+PE2,37,PIE to Changi after Adam Road Exit,https://www.onemap.gov.sg/?lat=1.330751&lng=103.8197933,1.330751,103.8197933
+PE2,38,PIE to Changi / Whitley Road,https://www.onemap.gov.sg/?lat=1.327627&lng=103.8282406,1.327627,103.8282406
+THM,39,Thomson Road after Toa Payoh Rise,https://www.onemap.gov.sg/?lat=1.3363648&lng=103.8371904,1.3363648,103.8371904
+OR1,40,Bendemeer Road,https://www.onemap.gov.sg/?lat=1.3272557&lng=103.8684442,1.3272557,103.8684442
+AYT,41,AYE to Tuas Before Clementi Road,https://www.onemap.gov.sg/?lat=1.3011835&lng=103.7765271,1.3011835,103.7765271
+PE3,42,PIE into CTE,https://www.onemap.gov.sg/?lat=1.3289836&lng=103.86452,1.3289836,103.86452
+DZ1,43,Dunearn Road / Wayang Satu Flyover,https://www.onemap.gov.sg/?lat=1.3216273&lng=103.823498,1.3216273,103.823498
+DZ1,44,Dunearn Road / Whitley Road,https://www.onemap.gov.sg/?lat=1.3211878&lng=103.8250578,1.3211878,103.8250578
+PE1,45,PIE slip road to Bendemeer Road,https://www.onemap.gov.sg/?lat=1.3262166&lng=103.8704105,1.3262166,103.8704105
+CT5,46,CTE Northbound after PIE,https://www.onemap.gov.sg/?lat=1.3327987&lng=103.8621859,1.3327987,103.8621859
+OC2,47,Orchard Road after YMCA,https://www.onemap.gov.sg/?lat=1.2980509&lng=103.8479845,1.2980509,103.8479845
+OC3,48,Orchard Road after Handy Road,https://www.onemap.gov.sg/?lat=1.2987362&lng=103.8479763,1.2987362,103.8479763
+OC2,49,Fort Canning Tunnel,https://www.onemap.gov.sg/?lat=1.2978029&lng=103.8463242,1.2978029,103.8463242
+KP2,50,KPE Southbound after Defu Flyover,,1.3595844,103.9031954
+CT6,51,CTE Northbound before exit to PIE,https://www.onemap.gov.sg/?lat=1.3260758&lng=103.8605166,1.3260758,103.8605166
+AYC,52,Clementi Avenue 6 into AYE (City),https://www.onemap.gov.sg/?lat=1.3151108&lng=103.7608575,1.3151108,103.7608575
+AYC,53,Clementi Avenue 2 into AYE (City),https://www.onemap.gov.sg/?lat=1.3088763&lng=103.766437,1.3088763,103.766437
+BKE,54,Bt Timah Expressway (Sb betw Dairy Farm Rd and PIE),https://www.onemap.gov.sg/?lat=1.3534932&lng=103.7878682,1.3534932,103.7878682
+UBT,55,Upper Bt Timah Rd Southbound after Hume Ave,https://www.onemap.gov.sg/?lat=1.3531066&lng=103.7697205,1.3531066,103.7697205
+TPZ,56,Toa Payoh Lorong 6,https://www.onemap.gov.sg/?lat=1.3409207&lng=103.8533563,1.3409207,103.8533563
+KBZ,57,Kallang Bahru,https://www.onemap.gov.sg/?lat=1.3219263&lng=103.8728009,1.3219263,103.8728009
+GBZ,58,Geylang Bahru,https://www.onemap.gov.sg/?lat=1.3200599&lng=103.8717922,1.3200599,103.8717922
+BKZ,59,Upper Boon Keng Road,https://www.onemap.gov.sg/?lat=1.3136067&lng=103.8703987,1.3136067,103.8703987
+SR2,60,Eu Tong Sen Street at Central,https://www.onemap.gov.sg/?lat=1.2893695&lng=103.8475665,1.2893695,103.8475665
+SR1,61,New Bridge Road before Upper Circular Road,https://www.onemap.gov.sg/?lat=1.2892759&lng=103.8477207,1.2892759,103.8477207
+SR1,62,South Bridge Road before Upper Circular Road,https://www.onemap.gov.sg/?lat=1.288544&lng=103.8489525,1.288544,103.8489525
+SR2,63,Fullerton Road eastbound at Fullerton Hotel,https://www.onemap.gov.sg/?lat=1.2860102&lng=103.8536025,1.2860102,103.8536025
+SR1,64,Fullerton Road westbound at One Fullerton,https://www.onemap.gov.sg/?lat=1.285948&lng=103.8537806,1.285948,103.8537806
+PE4,65,PIE westbound before Eunos Link,https://www.onemap.gov.sg/?lat=1.328564&lng=103.911625,1.328564,103.911625
+SR2,66,Bayfront Avenue towards Raffles Avenue,https://www.onemap.gov.sg/?lat=1.2853737&lng=103.8607051,1.2853737,103.8607051
+CT5,67,PIE to CTE Northbound before Braddell Road,https://www.onemap.gov.sg/?lat=1.3330806&lng=103.8618122,1.3330806,103.8618122
+CT2,68,CTE slip road to PIE (Changi) / Serangoon Road,https://www.onemap.gov.sg/?lat=1.3334219&lng=103.8625019,1.3334219,103.8625019
+SR1,69,Bayfront Avenue Towards Marina Boulevard,https://www.onemap.gov.sg/?lat=1.2853704&lng=103.8608712,1.2853704,103.8608712
+KAL,70,Geylang Road,https://www.onemap.gov.sg/?lat=1.3100843&lng=103.8707783,1.3100843,103.8707783
+OR1,71,Woodsville Tunnel,https://www.onemap.gov.sg/?lat=1.3258662&lng=103.86807,1.3258662,103.86807
+CBD,72,Sheares Avenue towards Sheares Link,https://www.onemap.gov.sg/?lat=1.2841413&lng=103.8615058,1.2841413,103.8615058
+EC3,73,ECP eastbound before exit to KPE,https://www.onemap.gov.sg/?lat=1.2954784&lng=103.8722043,1.2954784,103.8722043
+AYC,74,AYE to City Before Clementi Avenue 6,https://www.onemap.gov.sg/?lat=1.3162832&lng=103.7587987,1.3162832,103.7587987
+KP1,80,KPE Southbound exit to ECP (City),https://www.onemap.gov.sg/?lat=1.2938702&lng=103.8754217,1.2938702,103.8754217
+MC1,90,MCE westbound exit to Marina Coastal Drive,https://www.onemap.gov.sg/?lat=1.2749429&lng=103.8669905,1.2749429,103.8669905
+MC1,91,MCE westbound before exit to Maxwell Road,https://www.onemap.gov.sg/?lat=1.2713523&lng=103.8555635,1.2713523,103.8555635
+MC2,92,Marina Boulevard to MCE eastbound,https://www.onemap.gov.sg/?lat=1.2751657&lng=103.8662593,1.2751657,103.8662593
+MC2,93,MCE eastbound before exit to Central Boulevard,https://www.onemap.gov.sg/?lat=1.2715989&lng=103.8556064,1.2715989,103.8556064
